@@ -1,0 +1,8 @@
+title: Prashikshan
+description: for the coursera html css course
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
